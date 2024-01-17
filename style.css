@@ -1,0 +1,59 @@
+body {
+    background-color: blanchedalmond;
+}
+
+h1 {
+    background-color: rgb(113, 113, 112);
+    color: blanchedalmond;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.yakisoba {
+    background-color: #AB7F5D;
+}
+
+.pasta {
+    background-color: #6AA52F;
+}
+
+.cupcake {
+    background-color: hsl(40, 57%, 66%);
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.yakisoba, 
+.pasta {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+ul {
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.right {
+    text-align: right;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+ol.right {
+    background-color: pink;
+}
+
+ul li {
+    background-color: aquamarine;
+}
+
+#incredibly-important-header {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: red;
+    text-align: right;
+    font: bold;
+    font-size: 36px;
+}
+
+.third-header {
+    font-family: 'Times New Roman', Times, serif;
+    font: bold;
+    background-color: chartreuse;
+}
